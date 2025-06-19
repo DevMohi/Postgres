@@ -42,5 +42,4 @@ DROP table person2;
 --Table thakble structure thakbe kintu data thakbena for truncate 
 TRUNCATE TABLE person2;
 
--- Insert 
 INSERT INTO person2 VALUES(4, 'farhan', 25, 'farhan@gmail.com');
