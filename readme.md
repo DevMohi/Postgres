@@ -1,0 +1,1 @@
+Notes Link - https://www.notion.so/Level-2-Notes-Postgre-SQL-Prisma-20e49caf53bd801793b7ca96fb410c20?source=copy_link
