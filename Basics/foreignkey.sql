@@ -66,3 +66,5 @@ DELETE FROM "user"
 
 SELECT * from post;
 SELECT * from "user";
+
+
